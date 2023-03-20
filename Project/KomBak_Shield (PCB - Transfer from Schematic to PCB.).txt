@@ -1,0 +1,15 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Friday, December 23, 2022
+Design Path:        D:\Designspark\Project\KomBak_Shield.pcb
+Design Title:       
+Created:            23/12/2022 01:55:11
+Last Saved:         23/12/2022 01:55:55
+Editing Time:       0 min
+Units:              mil (precision 0)
+
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.
